@@ -25,15 +25,6 @@ Truy cập trực tiếp từ link sau đây:
 9. i_svm_regression : https://colab.research.google.com/drive/1knsWz3ZFbCy-V7QFv_7kcFctjMiOisWq
 10. k_softmax_regression : https://colab.research.google.com/drive/1_NT2W3ktPwoRBWHrwaxEu1PIa6a-6Nh_
 
-Kéo danh sách link từ repo dự án:
-- cmd: 
-```cmd
-curl https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/_presentation/link_colab.txt
-```
-- powershell:
-```cmd
-curl https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/_presentation/link_colab.txt -UseBasicParsing | Select-Object -ExpandProperty Content
-```
 
 ### Jupyter notebook
 Thầy/cô có thể sử dụng repo dự án của nhóm theo hướng dẫn sau:
