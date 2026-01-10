@@ -27,7 +27,7 @@ Truy cập trực tiếp từ link sau đây:
 
 
 ### Jupyter notebook
-Thầy/cô có thể sử dụng repo dự án của nhóm theo hướng dẫn sau:
+Ngoài ra, thầy/cô có thể sử dụng repo dự án của nhóm theo hướng dẫn sau:
 1. cmd:
 ```cmd
 git clone https://github.com/Dr-Vphuc/Ground_Water_Classifier.git
