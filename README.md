@@ -10,17 +10,45 @@
 
 ## Hướng dẫn chạy chương trình
 
-Ưu tiên sử dụng link colab để tránh tải thư viện nặng, thầy/cô hãy chạy câu lệnh trong cmd/powershell để lấy link notebook:
+### Ưu tiên link colab notebook
+Ưu tiên sử dụng link colab để tránh tải thư viện nặng, thầy/cô có thế làm theo các cách sau:
+
+Truy cập trực tiếp từ link sau đây:
+1. a_preprocessing : https://colab.research.google.com/drive/1iiz3bBtTjINEBLZ4ORB_eMctR06n1FFV
+2. b_dimension_reduce : https://colab.research.google.com/drive/1-tADIbfK0VRyCgIIjBncFXLgKz_84Pqe
+3. c_knn : https://colab.research.google.com/drive/17NpgiYM95V21xfLh9wJtIgZOhUPm-AAk
+4. d_knn_with_lda : https://colab.research.google.com/drive/1pyvE-mrYlUPy0-nEtSu5RZLNcC37SbMZ
+5. e_clustering : https://colab.research.google.com/drive/1luw5Hn-U0VJiJRLXImc1ABf8YIEwCUmr?usp=sharing
+6. f_gnb+mlp-softmax : https://colab.research.google.com/drive/1m9qMtO3w_7RfSW_K2aeartrRzZ2bfsMI?usp=sharing
+7. g_softmax : https://colab.research.google.com/drive/1zO4qwkN31rt0eXPNlpG-8mnwpgyY5RcJ
+8. h_svm : https://colab.research.google.com/drive/15TOo4IqDeE9mCmwPyRnIS-z0inxSsoeX
+9. i_svm_regression : https://colab.research.google.com/drive/1knsWz3ZFbCy-V7QFv_7kcFctjMiOisWq
+10. k_softmax_regression : https://colab.research.google.com/drive/1_NT2W3ktPwoRBWHrwaxEu1PIa6a-6Nh_
+
+Kéo danh sách link từ repo dự án:
 - cmd: 
 ```cmd
 curl https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/_presentation/link_colab.txt
 ```
--powershell:
+- powershell:
 ```cmd
 curl https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/_presentation/link_colab.txt -UseBasicParsing | Select-Object -ExpandProperty Content
 ```
 
+### Jupyter notebook
+Thầy/cô có thể sử dụng repo dự án của nhóm theo hướng dẫn sau:
+1. cmd:
+```cmd
+git clone https://github.com/Dr-Vphuc/Ground_Water_Classifier.git
+```
+2. Làm theo [hướng dẫn lấy dữ liệu](#hướng-dẫn-tải-dữ-liệu)
+3. Tạo venv nếu cần
+4. pip install -r requirements.txt
+5. Chạy dự án theo hướng dẫn trong phần [tổ chức dự án](#tổ-chức-dự-án)
+
 ## Hướng dẫn tải dữ liệu
+
+Nếu thầy/cô kiểm tra mã nguồn bằng link colab notebook thì không cần quan tâm đến phần này.
 
 Trên window, sử dụng cmd (lưu ý là cmd chứ không phải powershell) di chuyển vào thư mục chứa dự án và chạy các lệnh sau:
 
