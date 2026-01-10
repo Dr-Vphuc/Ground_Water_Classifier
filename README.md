@@ -8,6 +8,18 @@
 | Nguyễn Khắc Huy      | 23001525         | huynguyenkhac17       | Giảm chiều dữ liệu, GNB, MLP           |
 | Trần Đăng Tài        | 23001558         | TaiTranDang145        | SoftMax, SVM                           |
 
+## Hướng dẫn chạy chương trình
+
+Ưu tiên sử dụng link colab để tránh tải thư viện nặng, thầy/cô hãy chạy câu lệnh trong cmd/powershell để lấy link notebook:
+- cmd: 
+```cmd
+curl https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/_presentation/link_colab.txt
+```
+-powershell:
+```cmd
+curl https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/_presentation/link_colab.txt -UseBasicParsing | Select-Object -ExpandProperty Content
+```
+
 ## Hướng dẫn tải dữ liệu
 
 Trên window, sử dụng cmd (lưu ý là cmd chứ không phải powershell) di chuyển vào thư mục chứa dự án và chạy các lệnh sau:
