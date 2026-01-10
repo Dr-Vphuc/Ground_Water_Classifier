@@ -32,7 +32,7 @@ Ngoài ra, thầy/cô có thể sử dụng repo dự án của nhóm theo hư�
 ```cmd
 git clone https://github.com/Dr-Vphuc/Ground_Water_Classifier.git
 ```
-2. Làm theo [hướng dẫn lấy dữ liệu](#hướng-dẫn-tải-dữ-liệu)
+2. Làm theo [hướng dẫn lấy dữ liệu](#hướng-dẫn-tải-dữ-liệu) (nếu cần)
 3. Tạo venv nếu cần
 4. pip install -r requirements.txt
 5. Chạy dự án theo hướng dẫn trong phần [tổ chức dự án](#tổ-chức-dự-án)
