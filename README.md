@@ -33,7 +33,7 @@ Toàn bộ dữ liệu sẽ nằm trong folder <mark>\data</mark>, trong đó fo
 
 Nếu có bất kì vấn đề với bước trên, hãy tải theo [link backup](https://drive.google.com/drive/folders/1RA56Pm9FKjC0MQXaV6RFM1TUK-v8Fv_u?usp=sharing).  
 
-## Tổ chức dữ án
+## Tổ chức dự án
 
 Toàn bộ mã nguồn của dự án được tổ chức bằng jupyter notebook trong thư mục <mark>\notebook</mark>.  
 Thứ tự chạy các file là thứ tự của tên file (từ a -> k), tuy nhiên các file đều có thể chạy riêng lẻ vì đã được chuẩn bị dữ liệu processed đầy đủ.
