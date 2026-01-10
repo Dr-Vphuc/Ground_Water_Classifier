@@ -11,7 +11,7 @@
 ## Hướng dẫn chạy chương trình
 
 ### Ưu tiên link colab notebook
-Ưu tiên sử dụng link colab để tránh tải thư viện nặng, thầy/cô có thế làm theo các cách sau:
+Ưu tiên sử dụng link colab để tránh tải thư viện nặng, thầy/cô có thế truy cập theo các đường link sau:
 
 Truy cập trực tiếp từ link sau đây:
 1. a_preprocessing : https://colab.research.google.com/drive/1iiz3bBtTjINEBLZ4ORB_eMctR06n1FFV
