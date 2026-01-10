@@ -10,7 +10,7 @@
 
 ## Hướng dẫn tải dữ liệu
 
-Trên window, sử dụng cmd (lưu ý là cmd chứ không phải powershell) cd vào thư mục chứa dự án và chạy các lệnh sau:
+Trên window, sử dụng cmd (lưu ý là cmd chứ không phải powershell) di chuyển vào thư mục chứa dự án và chạy các lệnh sau:
 
 ```cmd
 mkdir data
@@ -29,3 +29,6 @@ curl -L https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/
 curl -L https://raw.githubusercontent.com/Dr-Vphuc/Ground_Water_Classifier/refs/heads/main/data/processed_data_9_classes.csv -o data\processed_data_9_classes.csv
 
 ```
+Toàn bộ dữ liệu sẽ nằm trong folder \data, trong đó folder \raw chứa dữ liệu gốc và các files là các dữ liệu sau bước tiền xử lí.  
+
+Nếu có bất kì vấn đề với bước trên, hãy tải theo [link backup](https://drive.google.com/drive/folders/1RA56Pm9FKjC0MQXaV6RFM1TUK-v8Fv_u?usp=sharing).  
