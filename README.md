@@ -38,4 +38,4 @@ Nếu có bất kì vấn đề với bước trên, hãy tải theo [link backu
 Toàn bộ mã nguồn của dự án được tổ chức bằng jupyter notebook trong thư mục <mark>\notebook</mark>.  
 Thứ tự chạy các file là thứ tự của tên file (từ a -> k), tuy nhiên các file đều có thể chạy riêng lẻ vì đã được chuẩn bị dữ liệu processed đầy đủ.
 
-Note: Có 2 file ghi dữ liệu là a_preprocessing.ipynbc và d_dimension_reduce.ipynb, thầy/cô có thể xóa các <mark>files</mark> trong folder <mark>\data</mark> (lưu ý phải đề lại folder <mark>\raw</mark>) để kiểm chứng kết quả ghi file.
+Note: Có 2 file ghi dữ liệu là a_preprocessing.ipynbc và d_dimension_reduce.ipynb, thầy/cô có thể xóa các <mark>files</mark> trong folder <mark>\data</mark> (lưu ý phải để lại folder <mark>\raw</mark>) để kiểm chứng kết quả ghi file.
